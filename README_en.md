@@ -192,5 +192,5 @@ self.tts_processor = TTSProcessor(
 ```
 
 ---
-
-Contact: cialtion@outlook.com | cialtion737410@sjtu.edu.cn
+1.Contact: cialtion@outlook.com | cialtion737410@sjtu.edu.cn
+2.Notes: https://haxxorcialtion.github.io/sub_htmls/局域网内香橙派完全本地ASR-LLM-TTS_Realtime架构.html
