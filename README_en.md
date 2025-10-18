@@ -9,7 +9,7 @@ High-performance real-time voice assistant with client-server architecture. Reso
 
 ## Core Features
 
-* **Low-Latency Interaction**: TTFA (Time To First Audio) under 3 seconds from speech end to AI response start
+* **Low-Latency Interaction**: TTFA (Time To First Audio) under 2 seconds from speech end to AI response start
 * **Streaming Response**: LLM and TTS streaming processing drastically reduces waiting time
 * **Fully Local**: All models run locally, ensuring complete data privacy
 * **Precise Performance Monitoring**: Detailed metrics for accurate latency analysis
@@ -193,4 +193,5 @@ self.tts_processor = TTSProcessor(
 
 ---
 1.Contact: cialtion@outlook.com | cialtion737410@sjtu.edu.cn
+
 2.Notes: https://haxxorcialtion.github.io/sub_htmls/局域网内香橙派完全本地ASR-LLM-TTS_Realtime架构.html
