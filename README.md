@@ -9,7 +9,7 @@
 
 ## 核心特性
 
-* **低延迟交互**: 从用户说完话到AI第一个声音，TTFA控制在3秒以内
+* **低延迟交互**: 从用户说完话到AI第一个声音，TTFA控制在2秒以内
 * **流式响应**: LLM和TTS流式处理，大幅缩短等待时间
 * **完全本地化**: 所有模型本地运行，数据隐私保障
 * **精确性能监控**: 详细性能指标统计，精确分析各环节耗时
@@ -194,4 +194,5 @@ self.tts_processor = TTSProcessor(
 ---
 
 1.联系方式: cialtion@outlook.com | cialtion737410@sjtu.edu.cn
+
 2.Notes: https://haxxorcialtion.github.io/sub_htmls/局域网内香橙派完全本地ASR-LLM-TTS_Realtime架构.html
